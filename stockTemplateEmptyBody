@@ -1,0 +1,59 @@
+
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Skyline Clean Email</title>
+<style>
+  @media only screen and (max-width: 640px) {
+    .email-container { width: 100% !important; }
+    .content-pad { padding: 20px !important; }
+  }
+</style>
+</head>
+<body style="margin:0; padding:0; background-color:#e8e8e8; font-family: Arial, Helvetica, sans-serif;">
+
+<!-- Outer wrapper: light grey letterbox background -->
+<table role="presentation" width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#e8e8e8" style="background-color:#e8e8e8;">
+  <tr>
+    <td align="center" style="padding: 0;">
+
+      <table role="presentation" class="email-container" width="640" border="0" cellpadding="0" cellspacing="0" bgcolor="#ffffff" style="width:640px; max-width:640px; background-color:#ffffff;">
+
+        <tr>
+          <td align="center">
+            <a href="https://skylineclean.com/" target="_blank">
+              <img src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/BeeProAgency/829214_813197/Header-Full%20Logos.png"
+                   alt="Skyline Clean"
+                   width="640"
+                   style="display:block; width:100%; max-width:640px; height:auto; border:0;">
+            </a>
+          </td>
+        </tr>
+
+        <tr>
+          <td class="content-pad" style="padding: 30px 40px; font-family: Arial, Helvetica, sans-serif; font-size: 15px; line-height: 1.5; color: #333333;">
+
+            CONTENTREPLACECHECKPOINT
+
+          </td>
+        </tr>
+  
+
+        <tr>
+          <td align="center" bgcolor="#15669b" style="background-color:#15669b; padding: 20px 10px; font-family: Arial, Helvetica, sans-serif; font-size: 14px; line-height: 1.5; color:#ffffff;">
+            <a href="tel:6088368025" style="color:#109dd5; text-decoration:underline;">608.836.8025</a><br>
+            <a href="mailto:service@skylineclean.com" style="color:#109dd5; text-decoration:underline;">service@skylineclean.com</a><br>
+            3040 Laura Ln Ste 110 Middleton, WI 53562<br>
+            <a href="https://skylineclean.com/" style="color:#109dd5; text-decoration:underline;">www.skylineclean.com</a>
+          </td>
+        </tr>
+
+      </table>
+
+    </td>
+  </tr>
+</table>
+
+</body>
+</html>
